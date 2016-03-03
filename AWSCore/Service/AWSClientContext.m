@@ -14,7 +14,6 @@
 //
 
 #import "AWSClientContext.h"
-#import <UIKit/UIKit.h>
 #import <sys/types.h>
 #import <sys/sysctl.h>
 #import "AWSUICKeyChainStore.h"
